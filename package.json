@@ -39,7 +39,7 @@
     "react-dropzone": "^11.2.4",
     "react-markdown": "^5.0.3",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.3",
     "short-uuid": "^4.1.0",
     "shrink-string": "^3.0.9",
     "typeface-roboto": "^1.1.13",
